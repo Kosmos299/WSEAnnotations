@@ -1,0 +1,5 @@
+workshop_build_item "e:\Projects\Steamworkshop\Fairytale Guides\configs\Ancient.vdf"
+workshop_build_item "e:\Projects\Steamworkshop\Fairytale Guides\configs\Anubis.vdf"
+workshop_build_item "e:\Projects\Steamworkshop\Fairytale Guides\configs\D2.vdf"
+workshop_build_item "e:\Projects\Steamworkshop\Fairytale Guides\configs\Mirage.vdf"
+workshop_build_item "e:\Projects\Steamworkshop\Fairytale Guides\configs\Nuke.vdf"
