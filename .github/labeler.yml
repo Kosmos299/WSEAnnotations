@@ -1,3 +1,23 @@
+Ancient:
+- changed-files:
+  - any-glob-to-any-file: annotations/Ancient/*
+
 Anubis:
 - changed-files:
   - any-glob-to-any-file: annotations/Anubis/*
+
+Dust2:
+- changed-files:
+  - any-glob-to-any-file: annotations/Dust2/*
+
+Mirage:
+- changed-files:
+  - any-glob-to-any-file: annotations/Mirage/*
+
+Nuke:
+- changed-files:
+  - any-glob-to-any-file: annotations/Nuke/*
+
+Config:
+- changed-files:
+  - any-glob-to-any-file: config/*
