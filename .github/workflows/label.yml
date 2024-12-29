@@ -23,4 +23,4 @@ jobs:
 
 Anubis:
 - changed-files:
-  - any-glob-to-any-file: annotations/anubis/**
+  - any-glob-to-any-file: annotations/Anubis/**
