@@ -2,8 +2,8 @@
 {
     "appid"             "730"
 	"publishedfileid"	"3389787553"
-	"contentfolder" 	"e:\Projects\Steamworkshop\Fairytale Guides\annotations\Dust2\"
-    "previewfile"       "e:\Projects\Steamworkshop\Fairytale Guides\images\WSEd2.png"
+	"contentfolder" 	"e:\Projects\Steamworkshop\WSEAnnotations\annotations\Dust2\"
+    "previewfile"       "e:\Projects\Steamworkshop\WSEAnnotations\images\WSEd2.png"
     "visibility"        "1"
 	"title"             "WSE Dust2 Execute"
 	"changenote"		"29.12.2024 13:52 LL Initial deploy"
