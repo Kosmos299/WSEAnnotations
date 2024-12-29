@@ -1,0 +1,13 @@
+"workshopitem"
+{
+    "appid"             "730"
+	"publishedfileid"	"your-workshop-number"
+	"contentfolder" 	"..\Nuke\"
+    "previewfile"       "..\images\image.png"
+    "visibility"        "1"
+	"title"             "title"
+	"changenote"		"22.12.2024 23:01"
+	"description"		"desc"
+	
+}
+
