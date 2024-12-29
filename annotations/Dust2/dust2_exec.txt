@@ -1151,7 +1151,7 @@
 		}
 		Desc = 
 		{
-			Text = "W + L jumpthrow"
+			Text = "L jumpthrow + W"
 			FontSize = 75
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
