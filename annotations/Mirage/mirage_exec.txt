@@ -224,7 +224,7 @@
 		}
 		Desc = 
 		{
-			Text = "standing instructions"
+			Text = ""
 			FontSize = 75
 			FadeInDist = 300.0
 			FadeOutDist = 40.0
@@ -244,7 +244,7 @@
 		Position = [ 735.601074, -1273.120239, -29.122978 ]
 		Angles = [ -9.210249, -169.513779, 0.0 ]
 		VisiblePfx = true
-		TextPositionOffset = [ 0.0, 0.0, 30.0 ]
+		TextPositionOffset = [ 0.0, -30.0, 70.0 ]
 		TextFacePlayer = false
 		TextHorizontalAlign = "center"
 		RevealOnSuccess = false
@@ -510,7 +510,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "A Site RAKIETA Flash"
+			Text = "A Site Rakieta Flash"
 			FontSize = 125
 			FadeInDist = 600.0
 			FadeOutDist = 40.0
@@ -518,7 +518,7 @@
 		}
 		Desc = 
 		{
-			Text = "standing instructions"
+			Text = ""
 			FontSize = 75
 			FadeInDist = 300.0
 			FadeOutDist = 40.0
@@ -538,13 +538,13 @@
 		Position = [ 735.163208, -1277.508057, -48.516415 ]
 		Angles = [ 1.941359, -167.0784, 0.0 ]
 		VisiblePfx = true
-		TextPositionOffset = [ 0.0, 0.0, 30.0 ]
+		TextPositionOffset = [ 0.0, -60.0, 30.0 ]
 		TextFacePlayer = false
 		TextHorizontalAlign = "center"
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "A Site RAKIETA Flash"
+			Text = "A Site Rakieta Flash"
 			FontSize = 125
 			FadeInDist = 50.0
 			FadeOutDist = -1.0

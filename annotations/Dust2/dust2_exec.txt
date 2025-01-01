@@ -242,7 +242,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Doors smoke"
+			Text = "B Doors smoke"
 			FontSize = 125
 			FadeInDist = 600.0
 			FadeOutDist = 40.0
@@ -250,7 +250,7 @@
 		}
 		Desc = 
 		{
-			Text = "L Jumpthrow"
+			Text = ""
 			FontSize = 75
 			FadeInDist = 300.0
 			FadeOutDist = 40.0
@@ -270,13 +270,13 @@
 		Position = [ -1329.033325, 546.796021, 155.449066 ]
 		Angles = [ -56.696964, 86.874741, 0.0 ]
 		VisiblePfx = true
-		TextPositionOffset = [ 0.0, 0.0, 30.0 ]
+		TextPositionOffset = [ -30.0, -10.0, 30.0 ]
 		TextFacePlayer = false
 		TextHorizontalAlign = "center"
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Doors smoke"
+			Text = "B Doors smoke"
 			FontSize = 125
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -334,13 +334,13 @@
 		Angles = [ 0.0, 89.2258, 0.0 ]
 		VisiblePfx = true
 		Color = [ 255, 255, 255 ]
-		TextPositionOffset = [ 0.0, 0.0, 60.0 ]
+		TextPositionOffset = [ 0.0, 0.0, 30.0 ]
 		TextFacePlayer = true
 		TextHorizontalAlign = "center"
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Window smoke"
+			Text = "B Window smoke"
 			FontSize = 125
 			FadeInDist = 600.0
 			FadeOutDist = 40.0
@@ -348,7 +348,7 @@
 		}
 		Desc = 
 		{
-			Text = "L Jumpthrow"
+			Text = "Hug corner"
 			FontSize = 75
 			FadeInDist = 300.0
 			FadeOutDist = 40.0
@@ -368,13 +368,13 @@
 		Position = [ -1331.171753, 555.098572, 149.420578 ]
 		Angles = [ -50.849777, 89.225777, 0.0 ]
 		VisiblePfx = true
-		TextPositionOffset = [ 0.0, 0.0, 30.0 ]
+		TextPositionOffset = [ -30.0, -10.0, 30.0 ]
 		TextFacePlayer = false
 		TextHorizontalAlign = "center"
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Window smoke"
+			Text = "B Window smoke"
 			FontSize = 125
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -469,7 +469,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Mid smoke"
+			Text = "CT smoke"
 			FontSize = 125
 			FadeInDist = 600.0
 			FadeOutDist = 40.0
@@ -477,7 +477,7 @@
 		}
 		Desc = 
 		{
-			Text = "L jumpthrow"
+			Text = "Hug corner"
 			FontSize = 75
 			FadeInDist = 300.0
 			FadeOutDist = 40.0
@@ -503,7 +503,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Mid smoke"
+			Text = "CT smoke"
 			FontSize = 125
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -820,7 +820,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Short boxes take"
+			Text = "A Tetris Smoke"
 			FontSize = 125
 			FadeInDist = 600.0
 			FadeOutDist = 40.0
@@ -828,7 +828,7 @@
 		}
 		Desc = 
 		{
-			Text = "normal L throw"
+			Text = "Hug corner"
 			FontSize = 75
 			FadeInDist = 300.0
 			FadeOutDist = 40.0
@@ -854,7 +854,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Short boxes take"
+			Text = "A Tetris Smoke"
 			FontSize = 125
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -918,7 +918,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Short take"
+			Text = "A Short cross smoke"
 			FontSize = 125
 			FadeInDist = 600.0
 			FadeOutDist = 40.0
@@ -926,7 +926,7 @@
 		}
 		Desc = 
 		{
-			Text = "normal L throw"
+			Text = "Line with center of grate"
 			FontSize = 75
 			FadeInDist = 300.0
 			FadeOutDist = 40.0
@@ -952,7 +952,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Short take"
+			Text = " A Short cross smoke"
 			FontSize = 125
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -960,7 +960,7 @@
 		}
 		Desc = 
 		{
-			Text = "normal L throw"
+			Text = "L throw"
 			FontSize = 75
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -1078,7 +1078,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Short take lineup"
+			Text = "A Short cross smoke"
 			FontSize = 125
 			FadeInDist = 800.0
 			FadeOutDist = -1.0
@@ -1109,7 +1109,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Car"
+			Text = "A Car Molo"
 			FontSize = 125
 			FadeInDist = 600.0
 			FadeOutDist = 40.0
@@ -1117,7 +1117,7 @@
 		}
 		Desc = 
 		{
-			Text = "W + L jumpthrow"
+			Text = "Hug corner"
 			FontSize = 75
 			FadeInDist = 300.0
 			FadeOutDist = 40.0
@@ -1143,7 +1143,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Car"
+			Text = "A Car Molo"
 			FontSize = 125
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -1151,7 +1151,7 @@
 		}
 		Desc = 
 		{
-			Text = "L jumpthrow + W"
+			Text = "W + L jumpthrow"
 			FontSize = 75
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -1300,7 +1300,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "CT Smoke"
+			Text = "A Long Cross Smoke"
 			FontSize = 125
 			FadeInDist = 600.0
 			FadeOutDist = 40.0
@@ -1308,7 +1308,7 @@
 		}
 		Desc = 
 		{
-			Text = "normal L throw"
+			Text = "Line with line on crate"
 			FontSize = 75
 			FadeInDist = 300.0
 			FadeOutDist = 40.0
@@ -1334,7 +1334,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "CT Smoke"
+			Text = "A Long Cross Smoke"
 			FontSize = 125
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -1342,7 +1342,7 @@
 		}
 		Desc = 
 		{
-			Text = "normal L throw"
+			Text = "L throw"
 			FontSize = 75
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -1491,7 +1491,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Deep CT Smoke"
+			Text = "A Deep CT Smoke"
 			FontSize = 125
 			FadeInDist = 600.0
 			FadeOutDist = 40.0
@@ -1499,7 +1499,7 @@
 		}
 		Desc = 
 		{
-			Text = "normal L throw"
+			Text = "Line in middle of grate"
 			FontSize = 75
 			FadeInDist = 300.0
 			FadeOutDist = 40.0
@@ -1525,7 +1525,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Deep CT Smoke"
+			Text = "A Deep CT Smoke"
 			FontSize = 125
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -1533,7 +1533,7 @@
 		}
 		Desc = 
 		{
-			Text = "normal L throw"
+			Text = "L throw"
 			FontSize = 75
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -1682,7 +1682,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Double Doors from CT"
+			Text = "A DDoors Smoke"
 			FontSize = 125
 			FadeInDist = 600.0
 			FadeOutDist = 40.0
@@ -1690,7 +1690,7 @@
 		}
 		Desc = 
 		{
-			Text = "L jumpthrow - Hug corner"
+			Text = "Hug corner"
 			FontSize = 75
 			FadeInDist = 300.0
 			FadeOutDist = 40.0
@@ -1716,7 +1716,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Double Doors from CT"
+			Text = "A DDoors Smoke"
 			FontSize = 125
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -1724,7 +1724,7 @@
 		}
 		Desc = 
 		{
-			Text = "L jumpthrow - Hug corner"
+			Text = "L jumpthrow"
 			FontSize = 75
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -1774,13 +1774,13 @@
 		Angles = [ 0.0, -90.674286, 0.0 ]
 		VisiblePfx = true
 		Color = [ 255, 255, 255 ]
-		TextPositionOffset = [ 0.0, 0.0, 60.0 ]
+		TextPositionOffset = [ 0.0, 0.0, 30.0 ]
 		TextFacePlayer = true
 		TextHorizontalAlign = "center"
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Long 1"
+			Text = "Long flsh 1"
 			FontSize = 125
 			FadeInDist = 600.0
 			FadeOutDist = 40.0
@@ -1788,7 +1788,7 @@
 		}
 		Desc = 
 		{
-			Text = "L throw"
+			Text = ""
 			FontSize = 75
 			FadeInDist = 300.0
 			FadeOutDist = 40.0
@@ -1808,13 +1808,13 @@
 		Position = [ 1259.002075, 1964.972168, 132.500565 ]
 		Angles = [ -42.199333, -80.477089, 0.0 ]
 		VisiblePfx = true
-		TextPositionOffset = [ 0.0, 0.0, 30.0 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
 		TextFacePlayer = false
 		TextHorizontalAlign = "center"
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Long 1"
+			Text = "Long flsh 1"
 			FontSize = 125
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -1872,13 +1872,13 @@
 		Angles = [ 0.0, -90.674286, 0.0 ]
 		VisiblePfx = true
 		Color = [ 255, 255, 255 ]
-		TextPositionOffset = [ 0.0, 0.0, 60.0 ]
+		TextPositionOffset = [ 0.0, 0.0, 30.0 ]
 		TextFacePlayer = true
 		TextHorizontalAlign = "center"
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Long"
+			Text = "Long flsh 2"
 			FontSize = 125
 			FadeInDist = 600.0
 			FadeOutDist = 40.0
@@ -1886,7 +1886,7 @@
 		}
 		Desc = 
 		{
-			Text = "L throw"
+			Text = ""
 			FontSize = 75
 			FadeInDist = 300.0
 			FadeOutDist = 40.0
@@ -1912,7 +1912,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Long 2"
+			Text = "Long flsh 2"
 			FontSize = 125
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -2410,7 +2410,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Molotov Site"
+			Text = "A Site Molo"
 			FontSize = 125
 			FadeInDist = 800.0
 			FadeOutDist = -1.0
@@ -2441,7 +2441,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Molotov Site"
+			Text = "A Site Molo"
 			FontSize = 125
 			FadeInDist = 800.0
 			FadeOutDist = -1.0
@@ -2449,7 +2449,7 @@
 		}
 		Desc = 
 		{
-			Text = "Run and jumpthrow before that line"
+			Text = "Run and L jumpthrow before that line"
 			FontSize = 75
 			FadeInDist = 800.0
 			FadeOutDist = -1.0
@@ -2472,7 +2472,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Molotov Site"
+			Text = "A Site Molo"
 			FontSize = 125
 			FadeInDist = 800.0
 			FadeOutDist = -1.0

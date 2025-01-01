@@ -118,7 +118,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "CON RAKIETA"
+			Text = "A Conn Rakieta Flash"
 			FontSize = 125
 			FadeInDist = 600.0
 			FadeOutDist = 40.0
@@ -152,7 +152,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "CON RAKIETA"
+			Text = "A Conn Rakieta Flash"
 			FontSize = 125
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -216,7 +216,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Main Push 2"
+			Text = "B Main push flash 2"
 			FontSize = 125
 			FadeInDist = 600.0
 			FadeOutDist = 40.0
@@ -250,7 +250,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Main push"
+			Text = "B Main push flash 2"
 			FontSize = 125
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -314,7 +314,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Main push flash 1"
+			Text = "B Main push flash 1"
 			FontSize = 125
 			FadeInDist = 600.0
 			FadeOutDist = 40.0
@@ -348,7 +348,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Main push flash 1"
+			Text = "B Main push flash 1"
 			FontSize = 125
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -510,7 +510,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Woda Rakieta"
+			Text = "River Rakieta flash"
 			FontSize = 125
 			FadeInDist = 600.0
 			FadeOutDist = 40.0
@@ -544,7 +544,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Woda Rakieta"
+			Text = "River Rakieta flash"
 			FontSize = 125
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -1047,7 +1047,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "CT Smoke"
+			Text = "B CT Smoke"
 			FontSize = 125
 			FadeInDist = 800.0
 			FadeOutDist = -1.0
@@ -1233,7 +1233,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Plateau"
+			Text = "B Plateau"
 			FontSize = 125
 			FadeInDist = 600.0
 			FadeOutDist = 40.0
@@ -1267,7 +1267,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Plateu"
+			Text = "B Plateu"
 			FontSize = 125
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -1454,7 +1454,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = ""
+			Text = "B flash 2"
 			FontSize = 75
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -1517,7 +1517,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Mid doors"
+			Text = "Mid Doors Molo"
 			FontSize = 125
 			FadeInDist = 600.0
 			FadeOutDist = 40.0
@@ -1525,7 +1525,7 @@
 		}
 		Desc = 
 		{
-			Text = "standing instructions"
+			Text = "Line to corner of the wood"
 			FontSize = 75
 			FadeInDist = 300.0
 			FadeOutDist = 40.0
@@ -1551,7 +1551,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Mid doors"
+			Text = "Mid Doors Molo"
 			FontSize = 125
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -1559,7 +1559,7 @@
 		}
 		Desc = 
 		{
-			Text = "aim instructions"
+			Text = "L"
 			FontSize = 75
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -1863,7 +1863,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Mid"
+			Text = "Mid Left Doorway"
 			FontSize = 125
 			FadeInDist = 600.0
 			FadeOutDist = 40.0
@@ -1897,7 +1897,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Mid"
+			Text = "Mid Left Doorway"
 			FontSize = 125
 			FadeInDist = 50.0
 			FadeOutDist = -1.0
@@ -2116,7 +2116,7 @@
 		RevealOnSuccess = false
 		Title = 
 		{
-			Text = "Camera smoke"
+			Text = "A Camera Smoke"
 			FontSize = 125
 			FadeInDist = 800.0
 			FadeOutDist = -1.0
