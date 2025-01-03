@@ -16,7 +16,7 @@ jobs:
         with:
           token: "${{ secrets.GITHUB_TOKEN }}"
           path: configs/Ancient.vdf
-          body: "{{date:YYYY-MM-DD HH:mm:ss}} - {{ github.event.head_commit.message }}"
+          body: "{{date:YYYY-MM-DD HH:mm:ss}} - ${{ github.event.head_commit.message }}"
           openDelimiter: "<<"
           closeDelimiter: " >>"
 

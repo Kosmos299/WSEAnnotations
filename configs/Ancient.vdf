@@ -6,7 +6,7 @@
     "previewfile"       "e:\Projects\Steamworkshop\WSEAnnotations\images\WSEAncient.png"
     "visibility"        "1"
 	"title"             "WSE Ancient Execute"
-	"changenote"		"<<2025-01-03 21:21:18 - {{ github.event.head_commit.message }}>>"
+	"changenote"		"<<2025-01-03 21:21:18 - Updated Ancient annotations>>"
 	"description"		"WSE Executes - Ancient"
 	
 }
