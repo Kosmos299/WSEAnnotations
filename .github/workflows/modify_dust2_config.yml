@@ -1,7 +1,7 @@
 name: "Modify dust2 config"
 on:
   pull_request_target:
-    paths: "annotations/Dust2"
+    paths: "annotations/Dust2/*"
 
 jobs:
   modify-config:

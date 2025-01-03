@@ -1,7 +1,7 @@
 name: "Modify ancient config"
 on:
   pull_request_target:
-    paths: "annotations/Ancient"
+    paths: "annotations/Ancient/*"
 
 jobs:
   modify-config:
