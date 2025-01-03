@@ -1,8 +1,8 @@
-name: "Modify ancient config"
+name: "Modify nuke config"
 on:
   push:
     branches: "main"
-    paths: "annotations/Ancient/*"
+    paths: "annotations/Nuke/*"
 
 jobs:
   modify-config:
@@ -15,7 +15,7 @@ jobs:
       - uses: jaywcjlove/github-action-modify-file-content@main  
         with:
           token: "${{ secrets.GITHUB_TOKEN }}"
-          path: configs/Ancient.vdf
+          path: configs/Nuke.vdf
           body: "{{date:YYYY-MM-DD HH:mm:ss}} - {{ github.event.head_commit.message }}"
           openDelimiter: "<<"
           closeDelimiter: " >>"
