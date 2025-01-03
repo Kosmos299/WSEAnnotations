@@ -2,7 +2,11 @@
 {
     "appid"             "730"
 	"publishedfileid"	"3388839599"
-	"contentfolder" 	"e:2025-01-03 19:54:37; Config Rebuild."""
+	"contentfolder" 	"e:\Projects\Steamworkshop\WSEAnnotations\annotations\Ancient\"
+    "previewfile"       "e:\Projects\Steamworkshop\WSEAnnotations\images\WSEAncient.png"
+    "visibility"        "1"
+	"title"             "WSE Ancient Execute"
+	"changenote"		"""<<03.01.2025 17:44; Config Rebuild>>"""
 	"description"		"WSE Executes - Ancient"
 	
 }
