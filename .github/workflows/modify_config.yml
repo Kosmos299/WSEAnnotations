@@ -13,7 +13,7 @@ jobs:
       - uses: jaywcjlove/github-action-modify-file-content@main  
         with:
           token: "${{ secrets.GITHUB_TOKEN }}"
-          path: config/Ancient.vdf
+          path: configs/Ancient.vdf
           body: "{{date:YYYY-MM-DD HH:mm:ss}}"
           openDelimiter: ":"
           closeDelimiter: ";"
