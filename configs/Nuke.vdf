@@ -6,9 +6,7 @@
     "previewfile"       "e:\Projects\Steamworkshop\WSEAnnotations\images\WSEnuke.png"
     "visibility"        "1"
 	"title"             "WSE Nuke Execute"
-	"changenote"		"<<2025-01-03 22:12:48 - Merge pull request #10 from Kosmos299/nuke/update
-
-Updated nuke annotations>>"
+	"changenote"		"<<2025-01-03 22:54:13 - Updated nuke annotations>>"
 	"description"		"WSE Executes - Nuke"
 	
 }
