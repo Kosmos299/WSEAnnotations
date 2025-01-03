@@ -1,6 +1,4 @@
-
-
-name: "Modify config files"
+name: "Modify ancient config"
 on:
   pull_request_target:
     paths: "annotations/Ancient"
@@ -12,7 +10,7 @@ jobs:
     steps:
       - uses: szenius/set-timezone@v2.0
         with:
-          timezoneLinux: "Europe/Poland"
+          timezoneLinux: "Europe/Warsaw"
       - uses: jaywcjlove/github-action-modify-file-content@main  
         with:
           token: "${{ secrets.GITHUB_TOKEN }}"
